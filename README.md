@@ -23,5 +23,5 @@ https://www.sql-ex.ru/dmlexercises.php - DML, выполнено 10 запрос
 "date" – дата просмотра квартиры.
 Обратите внимание, что на просмотр одной квартиры могут записаться несколько клиентов, а один клиент может записаться на просмотр нескольких квартир.  
 **_Исходя из описания и схемы базы данных, составьте SQL-запрос, результатом которого будет список фамилий клиентов, записанных на просмотр двух и более трехкомнатных квартир._**  
-[База данных](https://drive.google.com/file/d/1nsRu9EogS-XAPQfrPNFT1QIEmJLCXT5q/view?usp=sharing)  
+[База данных](https://drive.google.com/file/d/12uMdtnh3qkX4UGiA2ZiL3AeKP6dGLWEL/view?usp=sharing)  
 rental_company.sql - запрос
